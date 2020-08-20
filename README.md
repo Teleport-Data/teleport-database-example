@@ -22,13 +22,13 @@ docker-compose start
 
 Expected output:
 ```
-database_example_pad $ docker-compose up --no-start --remove-orphans
+teleport-database-example $ docker-compose up --no-start --remove-orphans
 Creating postgres_sink   ... done
 Creating postgres_source ... done
-database_example_pad $ docker-compose start
+teleport-database-example $ docker-compose start
 Starting postgres_source ... done
 Starting postgres_sink   ... done
-database_example_pad $
+teleport-database-example $
 ```
 
 
@@ -41,10 +41,10 @@ teleport about-db -source postgres_sink
 
 Expected output:
 ```
-database_example_pad $ teleport about-db -source postgres_source
+teleport-database-example $ teleport about-db -source postgres_source
 Name:  postgres_source
 Type: PostgreSQL
-database_example_pad $ teleport about-db -source postgres_sink
+teleport-database-example $ teleport about-db -source postgres_sink
 Name:  postgres_sink
 Type: PostgreSQL
 ```
@@ -59,7 +59,7 @@ CREATE TABLE cars (id INT8, user_id INT8, make VARCHAR(128), model VARCHAR(128),
 
 Expected output:
 ```
-database_example_pad $ teleport db-terminal -source postgres_source
+teleport-database-example $ teleport db-terminal -source postgres_source
 psql (12.3)
 Type "help" for help.
 
@@ -78,7 +78,7 @@ teleport list-tables -source postgres_source
 
 Expected output:
 ```
-database_example_pad $ teleport list-tables -source postgres_source
+teleport-database-example $ teleport list-tables -source postgres_source
 users
 cars
 ```
@@ -93,9 +93,9 @@ teleport import-csv -source postgres_source -table cars -file .data/cars.csv
 
 Expected output:
 ```
-database_example_pad $ teleport import-csv -source postgres_source -table users -file .data/users.csv
-database_example_pad $ teleport import-csv -source postgres_source -table cars -file .data/cars.csv
-database_example_pad $
+teleport-database-example $ teleport import-csv -source postgres_source -table users -file .data/users.csv
+teleport-database-example $ teleport import-csv -source postgres_source -table cars -file .data/cars.csv
+teleport-database-example $
 ```
 
 6. Verify the mock data was imported into the test tables
@@ -109,7 +109,7 @@ SELECT * FROM cars LIMIT 10;
 ```
 
 ```
-database_example_pad $ teleport db-terminal -source postgres_source
+teleport-database-example $ teleport db-terminal -source postgres_source
 psql (12.3)
 Type "help" for help.
 
@@ -169,7 +169,7 @@ teleport extract-load-db -from postgres_source -table cars -to postgres_sink -pr
 
 Expected output:
 ```
-database_example_pad $ teleport extract-load-db -from postgres_source -table users -to postgres_sink -preview
+teleport-database-example $ teleport extract-load-db -from postgres_source -table users -to postgres_sink -preview
 INFO[0000] Starting extract-load                         from=postgres_source table=users to=postgres_sink
 DEBU[0000] Establish connection to Database              database=postgres_source
 DEBU[0000] Establish connection to Database              database=postgres_sink
@@ -207,7 +207,7 @@ DEBU[0000] (not executed) SQL Query:
 			DROP TABLE archive_postgres_source_users;
 
 INFO[0000] Completed extract-load 🎉                      from=postgres_source rows=3 table=users to=postgres_sink
-database_example_pad $ teleport extract-load-db -from postgres_source -table cars -to postgres_sink -preview
+teleport-database-example $ teleport extract-load-db -from postgres_source -table cars -to postgres_sink -preview
 INFO[0000] Starting extract-load                         from=postgres_source table=cars to=postgres_sink
 DEBU[0000] Establish connection to Database              database=postgres_source
 DEBU[0000] Establish connection to Database              database=postgres_sink
@@ -256,11 +256,11 @@ teleport extract-load-db -from postgres_source -table cars -to postgres_sink
 
 Expected output:
 ```
-database_example_pad $ teleport extract-load-db -from postgres_source -table users -to postgres_sink
+teleport-database-example $ teleport extract-load-db -from postgres_source -table users -to postgres_sink
 INFO[0000] Starting extract-load                         from=postgres_source table=users to=postgres_sink
 INFO[0000] Destination Table does not exist, creating    database=postgres_sink table=postgres_source_users
 INFO[0000] Completed extract-load 🎉                      from=postgres_source rows=100 table=users to=postgres_sink
-database_example_pad $ teleport extract-load-db -from postgres_source -table cars -to postgres_sink
+teleport-database-example $ teleport extract-load-db -from postgres_source -table cars -to postgres_sink
 INFO[0000] Starting extract-load                         from=postgres_source table=cars to=postgres_sink
 INFO[0000] Destination Table does not exist, creating    database=postgres_sink table=postgres_source_cars
 INFO[0000] Completed extract-load 🎉                      from=postgres_source rows=500 table=cars to=postgres_sink
@@ -278,7 +278,7 @@ SELECT * FROM postgres_source_cars LIMIT 10;
 
 Expected output:
 ```
-database_example_pad $ teleport db-terminal -source postgres_sink
+teleport-database-example $ teleport db-terminal -source postgres_sink
 psql (12.3)
 Type "help" for help.
 
@@ -356,8 +356,8 @@ teleport transform -source postgres_sink -table count_cars_by_user
 
 Expected output:
 ```
-database_example_pad $ teleport transform -source postgres_sink -table count_cars_by_user
-database_example_pad $
+teleport-database-example $ teleport transform -source postgres_sink -table count_cars_by_user
+teleport-database-example $
 ```
 
 2. Verify the data in the new table `count_cars_by_user`
@@ -370,7 +370,7 @@ SELECT * FROM count_cars_by_user LIMIT 10;
 
 Expected output:
 ```
-database_example_pad $ teleport db-terminal -source postgres_sink
+teleport-database-example $ teleport db-terminal -source postgres_sink
 psql (12.3)
 Type "help" for help.
 

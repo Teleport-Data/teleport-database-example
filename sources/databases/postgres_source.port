@@ -1,0 +1,10 @@
+def full_name(row):
+  return "%s %s" % (row['first_name'], row['last_name'])
+
+Table('users') \
+  .LoadStrategy(Full) \
+  .ComputeColumn("full_name", full_name, "VARCHAR(255)") # Add a new column 'full_name' with the result of the `full_name(row)` helper function
+
+Table('cars') \
+  .LoadStrategy(Full) \
+  .TransformColumn("make", lambda value: value.lower()) # Modify the value of the `make` column by lowercasing it before loading

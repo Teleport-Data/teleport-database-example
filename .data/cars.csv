@@ -1,0 +1,500 @@
+1,61,Buick,Regal,2018-02-09
+2,57,Mitsubishi,3000GT,2019-06-30
+3,100,Geo,Tracker,2018-03-22
+4,62,Pontiac,Montana,2018-10-28
+5,71,GMC,Rally Wagon 1500,2014-10-22
+6,10,Maserati,Spyder,2017-03-15
+7,18,Chrysler,Crossfire,2015-09-22
+8,64,Dodge,Dakota,2015-01-03
+9,57,Lamborghini,Murciélago,2018-04-17
+10,45,Honda,Element,2016-06-04
+11,71,Eagle,Talon,2019-02-15
+12,86,Dodge,Dakota,2019-07-28
+13,45,Ford,F250,2016-05-11
+14,66,BMW,M5,2015-07-04
+15,59,Jeep,Grand Cherokee,2017-05-29
+16,87,Oldsmobile,Silhouette,2017-09-15
+17,40,Dodge,Ram 1500,2015-01-30
+18,39,Dodge,Sprinter,2014-11-30
+19,93,Pontiac,Firefly,2015-06-08
+20,2,Saab,9000,2014-12-23
+21,8,Plymouth,Neon,2018-01-24
+22,35,Infiniti,QX,2015-07-19
+23,10,Bentley,Continental,2016-08-23
+24,38,Dodge,Caravan,2015-06-20
+25,4,Mitsubishi,Precis,2015-03-24
+26,93,Pontiac,6000,2016-04-17
+27,64,Audi,200,2015-07-05
+28,89,Mercedes-Benz,E-Class,2017-11-28
+29,4,Ford,Tempo,2017-03-26
+30,84,Isuzu,Axiom,2018-07-16
+31,5,Jaguar,XJ,2019-06-19
+32,14,Lexus,LX,2015-01-31
+33,84,Honda,Insight,2017-03-18
+34,11,Nissan,Sentra,2016-03-12
+35,30,Volvo,C30,2016-10-09
+36,69,Buick,Regal,2015-05-22
+37,35,Volvo,V70,2017-07-12
+38,32,GMC,1500,2019-03-14
+39,3,Audi,S6,2018-04-18
+40,40,Dodge,Dakota Club,2018-08-23
+41,98,Subaru,XT,2015-07-06
+42,85,Mitsubishi,Cordia,2017-09-29
+43,51,Buick,LaCrosse,2015-09-09
+44,21,Lexus,LS,2015-07-22
+45,61,Mazda,B-Series Plus,2018-12-12
+46,25,GMC,Yukon XL 1500,2018-09-27
+47,80,Honda,Civic,2016-09-01
+48,16,Volvo,XC70,2015-07-01
+49,5,Ford,Mustang,2014-09-23
+50,2,GMC,Yukon,2018-11-25
+51,48,Mercedes-Benz,M-Class,2017-09-26
+52,15,Nissan,Sentra,2015-06-10
+53,97,Saab,900,2018-01-05
+54,100,Volvo,S40,2018-06-22
+55,13,Mitsubishi,Mirage,2019-08-08
+56,96,Cadillac,Escalade EXT,2018-04-08
+57,7,Chevrolet,Express 2500,2016-06-04
+58,52,Dodge,Challenger,2018-06-11
+59,84,Buick,Century,2016-08-04
+60,84,GMC,Yukon XL,2016-08-31
+61,71,Mercedes-Benz,M-Class,2015-03-16
+62,94,Honda,Accord,2017-11-20
+63,84,Volkswagen,Eurovan,2016-05-10
+64,85,Mercury,Grand Marquis,2018-09-09
+65,43,Pontiac,Trans Sport,2019-02-19
+66,65,Mitsubishi,Mirage,2017-06-04
+67,15,Mazda,GLC,2018-01-07
+68,13,Honda,S2000,2016-03-26
+69,85,Dodge,Ram Van 1500,2016-11-30
+70,32,Saturn,Ion,2014-11-26
+71,34,Isuzu,Hombre Space,2016-06-07
+72,12,Toyota,Echo,2014-12-08
+73,67,Maserati,Gran Sport,2014-11-12
+74,44,Mercedes-Benz,SLK-Class,2014-09-14
+75,37,Nissan,Pathfinder,2014-09-21
+76,53,Dodge,Ram,2018-05-24
+77,40,Cadillac,Escalade EXT,2015-11-20
+78,25,Chevrolet,Avalanche,2017-08-21
+79,74,Jaguar,XJ Series,2018-12-29
+80,42,Chrysler,LeBaron,2017-12-15
+81,24,Cadillac,STS,2017-06-19
+82,44,Ford,Thunderbird,2017-08-09
+83,23,GMC,Yukon XL,2015-09-24
+84,70,GMC,Sonoma,2018-09-09
+85,86,Dodge,Durango,2017-06-06
+86,93,Dodge,Charger,2015-07-07
+87,43,Chrysler,LHS,2015-06-16
+88,84,Mercury,Mariner,2019-08-16
+89,46,Nissan,Xterra,2017-05-20
+90,71,Lotus,Esprit,2014-10-23
+91,1,Suzuki,Daewoo Lacetti,2015-06-12
+92,15,Dodge,Stealth,2018-01-06
+93,3,Toyota,4Runner,2018-01-13
+94,41,Volkswagen,New Beetle,2016-11-30
+95,28,Audi,S4,2017-10-20
+96,8,Mitsubishi,Sigma,2018-07-30
+97,15,Buick,Skylark,2018-02-07
+98,96,Buick,Riviera,2015-11-20
+99,15,Pontiac,Vibe,2017-09-22
+100,25,Lexus,LS,2017-10-01
+101,52,Citroën,CX,2017-12-23
+102,54,BMW,M3,2019-03-12
+103,81,Honda,Civic Si,2018-01-11
+104,45,Cadillac,Catera,2016-05-12
+105,79,BMW,8 Series,2015-12-20
+106,4,Toyota,Corolla,2019-07-21
+107,64,Dodge,Neon,2016-03-05
+108,67,Chrysler,Crossfire Roadster,2016-10-29
+109,49,Honda,Civic,2015-09-14
+110,57,Hyundai,Azera,2015-05-21
+111,73,Chevrolet,Sportvan G10,2015-07-16
+112,78,Chevrolet,3500,2017-03-09
+113,78,Lexus,LS Hybrid,2016-07-20
+114,50,Toyota,Highlander,2018-12-28
+115,3,Mercedes-Benz,500SEL,2017-04-05
+116,12,Audi,S4,2017-05-27
+117,63,Mazda,Millenia,2019-05-18
+118,25,Maserati,Quattroporte,2018-05-29
+119,57,Audi,RS 4,2018-11-15
+120,76,Isuzu,Axiom,2015-08-13
+121,58,Dodge,Ram 3500,2017-01-17
+122,32,Volkswagen,Touareg,2015-10-09
+123,59,Hyundai,Entourage,2014-10-20
+124,70,Ford,Bronco,2016-01-22
+125,3,Mercedes-Benz,CL-Class,2015-08-08
+126,25,Buick,Lucerne,2016-11-29
+127,70,Cadillac,Catera,2018-09-11
+128,24,Suzuki,Grand Vitara,2018-09-10
+129,18,Pontiac,G5,2015-07-07
+130,57,Ford,Mustang,2017-04-03
+131,4,Audi,4000,2019-08-06
+132,80,GMC,Sonoma,2017-12-04
+133,77,Acura,TL,2016-01-23
+134,52,Geo,Metro,2015-07-07
+135,13,Oldsmobile,Achieva,2015-11-05
+136,81,Chevrolet,Silverado,2015-10-24
+137,89,Infiniti,EX,2018-02-12
+138,15,Mercury,Cougar,2016-12-31
+139,80,Pontiac,Trans Sport,2018-12-11
+140,54,Subaru,Impreza,2017-09-14
+141,96,Toyota,Celica,2015-06-17
+142,34,Audi,Cabriolet,2018-01-26
+143,95,Jensen,Interceptor,2018-03-13
+144,8,Nissan,300ZX,2018-03-01
+145,32,BMW,7 Series,2018-09-03
+146,97,Cadillac,Fleetwood,2014-12-02
+147,86,Mazda,Tribute,2017-12-18
+148,20,Toyota,RAV4,2016-11-10
+149,62,Pontiac,Firefly,2015-11-24
+150,4,Audi,A4,2019-02-01
+151,84,Suzuki,Reno,2019-05-25
+152,96,Cadillac,Fleetwood,2014-10-19
+153,80,Porsche,Panamera,2015-10-11
+154,37,Mitsubishi,Lancer,2018-08-12
+155,39,Scion,xD,2017-01-16
+156,3,Mercury,Cougar,2018-08-17
+157,97,Pontiac,Bonneville,2019-05-04
+158,91,Mercedes-Benz,G-Class,2019-04-22
+159,26,Hyundai,Veloster,2018-05-20
+160,13,Daewoo,Lanos,2015-05-31
+161,81,Infiniti,G,2016-01-18
+162,10,Chrysler,Sebring,2014-09-23
+163,98,Cadillac,Catera,2019-03-16
+164,96,Jensen,Interceptor,2017-04-23
+165,44,Porsche,Cayenne,2016-04-13
+166,72,Ford,LTD Crown Victoria,2015-01-12
+167,75,Ford,Bronco,2015-01-17
+168,60,Dodge,Ram 1500,2016-11-14
+169,31,Nissan,Altima,2019-07-08
+170,86,Mazda,Mazda3,2014-12-08
+171,48,Suzuki,Aerio,2019-07-17
+172,77,Ford,Aerostar,2017-04-17
+173,96,Plymouth,Colt Vista,2017-01-28
+174,78,Dodge,Viper,2015-07-17
+175,77,Cadillac,Escalade,2015-07-02
+176,32,Chevrolet,Camaro,2016-08-07
+177,5,Saab,9-7X,2016-04-23
+178,30,Kia,Forte,2014-10-16
+179,72,Chevrolet,Cobalt,2014-10-10
+180,18,Ford,E-Series,2015-03-15
+181,0,Volkswagen,Touareg,2017-10-19
+182,79,Mitsubishi,Outlander,2016-10-19
+183,81,Volvo,C70,2016-09-16
+184,48,Honda,Accord,2017-05-05
+185,51,Volkswagen,Golf,2018-03-03
+186,90,Lexus,GS,2019-07-03
+187,6,Chevrolet,Camaro,2015-05-24
+188,79,GMC,1500,2017-07-18
+189,95,Lexus,SC,2014-12-19
+190,80,Audi,A4,2015-10-24
+191,59,Audi,A8,2019-05-15
+192,33,Rolls-Royce,Ghost,2018-01-05
+193,90,Ford,F150,2014-11-19
+194,36,Chrysler,300,2018-08-17
+195,47,Volkswagen,Cabriolet,2015-04-27
+196,42,Dodge,Ram 1500,2017-07-12
+197,72,Lincoln,Aviator,2018-08-29
+198,91,Buick,Century,2017-11-13
+199,41,Dodge,Grand Caravan,2018-06-05
+200,1,Nissan,Sentra,2017-10-01
+201,19,Pontiac,Grand Prix,2018-05-23
+202,72,Buick,Skylark,2018-01-09
+203,82,Lexus,RX,2015-10-17
+204,14,Mercury,Cougar,2017-10-19
+205,85,Dodge,Dakota,2017-04-13
+206,2,Ford,Expedition,2016-11-01
+207,5,Lexus,GS,2017-01-04
+208,64,Audi,R8,2017-12-07
+209,84,GMC,Sierra,2018-04-29
+210,50,Toyota,Corolla,2015-07-14
+211,1,Ford,Mustang,2019-04-23
+212,97,Nissan,Sentra,2018-04-09
+213,83,Volkswagen,Scirocco,2014-10-07
+214,68,Audi,80,2018-04-29
+215,70,Chevrolet,Camaro,2019-04-16
+216,100,GMC,Sierra 1500,2017-05-09
+217,85,Mitsubishi,Galant,2017-09-08
+218,32,Volvo,940,2015-02-26
+219,34,Ford,Ranger,2015-03-28
+220,41,Ford,E150,2018-07-30
+221,19,Lincoln,Navigator L,2018-01-22
+222,70,Toyota,Land Cruiser,2017-06-14
+223,21,Toyota,Land Cruiser,2016-11-01
+224,43,Dodge,Grand Caravan,2017-06-18
+225,26,Ford,Mustang,2015-01-25
+226,70,Pontiac,Grand Am,2017-01-21
+227,22,BMW,6 Series,2018-12-23
+228,45,Porsche,Cayenne,2015-02-25
+229,1,Lincoln,Mark VIII,2017-12-04
+230,62,Porsche,Cayenne,2015-01-08
+231,51,Dodge,Intrepid,2019-02-01
+232,91,Dodge,Dakota,2016-08-26
+233,16,Dodge,D250,2018-11-10
+234,96,Ford,Econoline E150,2017-11-29
+235,56,Mazda,Tribute,2016-01-10
+236,40,Honda,FCX Clarity,2015-05-20
+237,24,GMC,2500,2016-02-11
+238,38,Lotus,Esprit,2019-06-29
+239,18,Chrysler,Prowler,2018-10-19
+240,40,BMW,1 Series,2016-09-10
+241,97,Cadillac,Seville,2015-05-09
+242,15,Audi,S4,2016-07-31
+243,28,GMC,Suburban 2500,2019-07-13
+244,0,Infiniti,QX56,2016-12-28
+245,34,Volkswagen,GTI,2015-11-18
+246,32,Oldsmobile,Cutlass,2016-01-21
+247,43,Mitsubishi,Excel,2018-01-13
+248,51,Chevrolet,Cruze,2017-05-04
+249,81,Ford,Mustang,2016-03-01
+250,82,Porsche,911,2018-06-29
+251,51,GMC,Yukon XL 1500,2015-08-01
+252,56,Cadillac,Escalade ESV,2016-11-14
+253,47,Ford,Crown Victoria,2015-03-25
+254,91,BMW,600,2017-10-07
+255,6,Buick,LeSabre,2017-04-11
+256,86,Mitsubishi,Precis,2019-07-14
+257,3,Mitsubishi,Lancer Evolution,2019-05-08
+258,35,BMW,X5,2017-10-27
+259,28,Mitsubishi,Pajero,2019-04-23
+260,2,Jaguar,XK Series,2016-04-03
+261,21,Mitsubishi,Mighty Max,2016-08-02
+262,11,Chevrolet,Impala,2017-08-08
+263,39,Morgan,Aero 8,2017-01-13
+264,86,Ford,F250,2017-10-28
+265,37,Chevrolet,Express 2500,2016-02-09
+266,43,Ford,Mustang,2018-05-01
+267,57,GMC,Yukon,2017-06-04
+268,55,Aptera,2e,2018-02-15
+269,34,Infiniti,QX56,2017-04-07
+270,29,Plymouth,Grand Voyager,2015-11-14
+271,7,Ford,Edge,2017-02-27
+272,32,Ford,F350,2014-10-03
+273,52,Mitsubishi,Eclipse,2018-07-06
+274,1,Bentley,Continental GT,2016-05-01
+275,94,Nissan,Maxima,2017-04-23
+276,59,Ford,LTD Crown Victoria,2014-10-09
+277,91,Chevrolet,Monte Carlo,2016-04-14
+278,27,Kia,Sorento,2014-11-02
+279,84,BMW,M6,2016-10-11
+280,47,Dodge,Avenger,2015-07-23
+281,33,Lincoln,Continental Mark VII,2016-11-12
+282,23,Mitsubishi,Endeavor,2018-05-07
+283,31,Hyundai,Tiburon,2015-11-22
+284,28,Chevrolet,G-Series 1500,2014-12-28
+285,33,Lexus,RX,2015-01-06
+286,63,GMC,Savana 1500,2016-09-25
+287,96,Bentley,Mulsanne,2017-03-11
+288,60,Honda,Element,2019-06-16
+289,48,Ford,F250,2017-02-08
+290,14,Cadillac,XLR-V,2017-11-09
+291,87,Buick,LeSabre,2018-05-26
+292,93,Lotus,Elan,2015-05-10
+293,62,Dodge,Sprinter,2016-09-26
+294,44,Pontiac,Sunfire,2015-02-16
+295,14,Kia,Sorento,2015-06-28
+296,38,BMW,330,2014-10-05
+297,19,Ford,F250,2016-11-16
+298,89,Ford,Transit Connect,2017-12-17
+299,79,Dodge,Dakota,2017-10-12
+300,78,Porsche,968,2016-11-21
+301,87,Ford,F150,2015-10-20
+302,57,Ford,Mustang,2016-05-17
+303,82,Mercedes-Benz,E-Class,2015-07-02
+304,37,Maserati,Quattroporte,2015-02-28
+305,8,Ford,F150,2016-04-28
+306,88,Hyundai,Sonata,2015-01-10
+307,49,Porsche,Boxster,2015-06-02
+308,23,Hyundai,XG350,2017-08-01
+309,67,Mazda,MX-5,2016-12-17
+310,70,Suzuki,X-90,2015-02-28
+311,80,Buick,LeSabre,2016-07-12
+312,41,Mazda,B-Series,2015-09-07
+313,84,Chevrolet,Silverado,2018-07-25
+314,70,Chevrolet,G-Series 1500,2014-10-21
+315,46,Maybach,62,2017-02-19
+316,53,Toyota,Prius,2018-01-18
+317,59,Chevrolet,Cavalier,2016-06-22
+318,57,Pontiac,Grand Prix,2015-12-13
+319,3,Mercury,Capri,2016-04-29
+320,52,Ford,Ranger,2015-09-19
+321,89,Subaru,Baja,2016-08-03
+322,3,Saturn,Relay,2017-12-06
+323,42,Acura,MDX,2015-05-17
+324,79,Buick,Century,2014-11-21
+325,20,Chevrolet,Silverado 2500,2016-12-21
+326,38,Mazda,Protege,2015-06-26
+327,52,Toyota,4Runner,2017-10-10
+328,88,Chevrolet,Corvette,2018-07-30
+329,81,Ford,Thunderbird,2015-12-21
+330,68,Mitsubishi,Pajero,2018-10-19
+331,57,Jaguar,XJ Series,2015-06-15
+332,78,Lexus,GS,2019-03-06
+333,46,Mercedes-Benz,300SE,2016-12-22
+334,15,Hyundai,Tiburon,2016-07-07
+335,98,Mercedes-Benz,SL-Class,2016-12-14
+336,80,Ford,EXP,2016-05-09
+337,52,Infiniti,FX,2015-06-13
+338,53,Fiat,Nuova 500,2017-05-09
+339,76,Acura,Integra,2015-07-03
+340,44,Dodge,Ram 3500 Club,2017-08-09
+341,74,Lexus,ES,2015-03-23
+342,91,Saturn,Astra,2015-10-08
+343,32,Audi,A4,2016-11-29
+344,85,Dodge,Dakota Club,2015-02-27
+345,61,Jeep,Grand Cherokee,2017-08-29
+346,81,Isuzu,Rodeo,2017-02-28
+347,21,Pontiac,Grand Prix,2015-01-20
+348,88,Nissan,Maxima,2014-12-08
+349,63,Cadillac,STS,2018-05-06
+350,61,Mitsubishi,Expo LRV,2017-03-13
+351,67,Pontiac,Firebird,2017-07-16
+352,77,Hummer,H2 SUT,2016-01-02
+353,52,Chevrolet,1500,2019-03-19
+354,97,Buick,Skylark,2017-03-13
+355,64,Nissan,Frontier,2018-01-09
+356,8,Nissan,Rogue,2019-06-13
+357,79,Ford,Windstar,2015-05-06
+358,50,Chevrolet,G-Series G10,2015-10-28
+359,100,Suzuki,Cultus,2016-09-13
+360,30,Infiniti,I,2015-02-26
+361,17,Mitsubishi,RVR,2019-08-03
+362,35,Subaru,SVX,2016-07-28
+363,81,Pontiac,Grand Am,2016-11-11
+364,58,Mitsubishi,Pajero,2016-01-14
+365,12,BMW,6 Series,2016-11-11
+366,92,Chevrolet,Camaro,2015-01-25
+367,1,Chevrolet,1500,2018-04-27
+368,64,Nissan,Pathfinder,2015-01-07
+369,9,Kia,Rio,2018-09-25
+370,17,Subaru,Legacy,2018-06-05
+371,25,Ford,F250,2015-05-28
+372,70,Ford,Explorer,2015-03-12
+373,77,Lincoln,Town Car,2017-04-21
+374,10,Porsche,911,2016-02-01
+375,28,Toyota,Previa,2015-05-08
+376,91,Lexus,SC,2017-01-30
+377,92,Ford,Tempo,2015-05-27
+378,86,Corbin,Sparrow,2016-07-02
+379,37,Suzuki,SJ,2016-05-01
+380,75,Mercury,Villager,2019-04-06
+381,18,Ford,Crown Victoria,2015-04-07
+382,10,Dodge,Stratus,2015-05-17
+383,100,Mercury,Mountaineer,2016-12-12
+384,99,GMC,Savana,2017-09-02
+385,48,Chrysler,300,2014-12-20
+386,3,Porsche,Cayenne,2017-12-29
+387,33,Audi,A4,2015-12-06
+388,6,Ford,F-Series Super Duty,2015-05-08
+389,27,Ford,F150,2015-01-21
+390,67,Pontiac,Bonneville,2015-07-23
+391,6,Toyota,Prius,2016-12-05
+392,72,Mazda,Familia,2015-09-18
+393,94,Cadillac,Seville,2015-05-24
+394,63,GMC,Savana 2500,2014-12-23
+395,29,Ford,Crown Victoria,2015-06-27
+396,33,Toyota,Corolla,2019-05-15
+397,53,Chevrolet,Silverado 3500,2019-05-05
+398,15,Lexus,LS,2016-12-07
+399,47,Nissan,Pathfinder,2016-07-23
+400,85,Hummer,H2 SUT,2016-03-17
+401,22,Ferrari,California,2016-08-07
+402,76,Subaru,Legacy,2015-04-25
+403,27,Buick,LeSabre,2017-11-19
+404,9,Dodge,Dakota,2014-12-22
+405,4,Kia,Sportage,2019-03-01
+406,78,Dodge,Neon,2016-09-01
+407,50,Chevrolet,Caprice,2017-07-16
+408,16,Acura,Integra,2016-01-22
+409,22,Dodge,Ram 1500,2019-07-01
+410,1,Hyundai,Genesis,2015-01-08
+411,44,Hyundai,Veracruz,2016-09-12
+412,81,Suzuki,XL-7,2016-07-04
+413,76,Hyundai,Sonata,2014-12-16
+414,59,Chrysler,Voyager,2016-07-23
+415,48,Lotus,Esprit,2016-03-25
+416,57,GMC,Yukon,2018-05-24
+417,60,Mazda,MX-5,2017-12-12
+418,69,Buick,Century,2018-07-14
+419,28,Lincoln,Zephyr,2016-04-13
+420,47,Chrysler,Town & Country,2018-03-16
+421,20,Dodge,Ram Van 2500,2015-06-28
+422,6,Toyota,Corolla,2016-05-17
+423,35,Buick,Lucerne,2015-10-30
+424,69,Suzuki,Aerio,2018-09-27
+425,31,Volvo,240,2017-01-23
+426,9,Buick,LeSabre,2017-06-06
+427,92,Dodge,Intrepid,2017-03-31
+428,1,Land Rover,Sterling,2016-01-12
+429,44,Lotus,Esprit,2017-08-21
+430,53,BMW,525,2016-03-11
+431,70,Lexus,ES,2015-12-05
+432,80,Toyota,Camry,2018-08-07
+433,81,Porsche,Cayman,2018-01-25
+434,47,Chevrolet,Silverado 3500,2014-12-10
+435,58,Jeep,Liberty,2014-08-27
+436,23,Hyundai,Santa Fe,2019-05-21
+437,20,Lincoln,Navigator,2017-03-25
+438,6,Saturn,Astra,2019-04-19
+439,23,Chevrolet,2500,2018-03-22
+440,24,Mercedes-Benz,W201,2017-08-24
+441,40,Mercedes-Benz,CL-Class,2018-07-11
+442,49,Plymouth,Neon,2015-11-24
+443,58,Volvo,C70,2018-10-21
+444,50,Cadillac,DeVille,2016-06-08
+445,30,Nissan,Cube,2018-01-05
+446,24,Honda,Prelude,2019-01-15
+447,57,Chevrolet,Monte Carlo,2018-05-21
+448,15,Mazda,B2500,2014-11-07
+449,0,Lexus,ES,2018-05-17
+450,94,Saturn,L-Series,2019-07-10
+451,71,Chevrolet,Corsica,2016-12-14
+452,77,Cadillac,Eldorado,2015-12-31
+453,98,Pontiac,Bonneville,2015-07-24
+454,25,Land Rover,Discovery,2016-04-27
+455,86,Pontiac,Grand Prix,2017-11-28
+456,56,Chevrolet,Bel Air,2015-01-08
+457,49,Ford,F-Series Super Duty,2018-05-17
+458,27,BMW,545,2015-03-10
+459,28,Cadillac,Escalade EXT,2015-02-18
+460,73,Isuzu,Ascender,2018-10-19
+461,50,Volkswagen,Golf III,2019-03-10
+462,19,Jaguar,XK,2019-07-11
+463,17,Dodge,Colt,2018-05-22
+464,44,Infiniti,Q,2015-12-27
+465,29,Dodge,D250 Club,2018-05-25
+466,79,Subaru,Legacy,2018-01-05
+467,45,Mitsubishi,RVR,2015-10-19
+468,80,GMC,Sierra 2500HD,2018-07-31
+469,5,Mercedes-Benz,CLS-Class,2018-10-11
+470,49,Mitsubishi,Eclipse,2019-05-27
+471,81,Kia,Rio,2017-05-19
+472,79,Ford,Edge,2016-12-20
+473,87,Mercury,Topaz,2016-05-26
+474,37,GMC,Vandura 1500,2016-08-08
+475,2,Volkswagen,Golf,2016-08-16
+476,29,Suzuki,Daewoo Lacetti,2015-03-13
+477,99,BMW,M3,2015-03-29
+478,9,Dodge,Ram Van 2500,2015-02-28
+479,61,Mercedes-Benz,M-Class,2016-04-19
+480,81,Hyundai,Accent,2018-08-15
+481,64,Mazda,Miata MX-5,2019-06-19
+482,81,Chevrolet,Monte Carlo,2016-06-01
+483,54,Volvo,V50,2018-09-17
+484,61,Toyota,Land Cruiser,2015-12-21
+485,81,Hummer,H2,2017-06-12
+486,63,Mazda,929,2014-11-23
+487,0,Isuzu,Amigo,2014-11-07
+488,90,Hyundai,Tiburon,2017-12-10
+489,79,Mercury,Mountaineer,2016-09-01
+490,17,Mazda,929,2018-10-26
+491,42,Volvo,C70,2015-09-27
+492,30,Pontiac,LeMans,2017-04-20
+493,90,Mazda,MPV,2019-02-22
+494,27,Nissan,Pathfinder,2015-03-16
+495,84,Mercury,Monterey,2015-02-16
+496,5,Pontiac,Grand Prix,2016-01-17
+497,64,Toyota,Corolla,2018-12-17
+498,9,MINI,Cooper,2014-11-21
+499,91,Lincoln,Continental,2018-07-23
+500,1,Pontiac,G6,2014-09-02

@@ -1,0 +1,5 @@
+connections:
+  postgres_source:
+    url: postgres://postgres@localhost:45433/?sslmode=disable
+  postgres_sink:
+    url: postgres://postgres@localhost:45439/?sslmode=disable

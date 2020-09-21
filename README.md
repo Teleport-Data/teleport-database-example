@@ -9,7 +9,13 @@ The dummy data for the source database comes from `garage.com` - a hypothetical 
 
 # Instructions
 
-## Prepare the test databases
+## Table of Contents
+
+1. [Prepare the test databases with dummy data](#prepare-the-test-databases-with-dummy-data)
+2. [Run extract-load tasks using Teleport](#run-extract-load-tasks-using-teleport)
+3. [Use a SQL Transform to modify or aggregate the data in the sink](#use-a-sql-transform-to-modify-or-aggregate-the-data-in-the-sink)
+
+## Prepare the test databases with dummy data
 
 Do the following from the command line on your computer
 
